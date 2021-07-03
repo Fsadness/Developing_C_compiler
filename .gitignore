@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# VS Code setting jsons
+.vscode/
+
+# My notes
+notes/
+
+# Test datas
+test
+test.*
