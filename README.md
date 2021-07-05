@@ -1,6 +1,8 @@
 # Developing_C_compiler
 A developing C-subset compiler, tutorials are from https://github.com/DoctorWkt/acwj
 
+You could also see more at my Blog **[here](https://fsadness.github.io/)** or **[here](https://fsadness-github-io.vercel.app/)**. (Cause one of the URLs may be killed by the browser)
+
 ## History
 
 ### 2020-07-03

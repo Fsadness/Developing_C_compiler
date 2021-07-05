@@ -1,5 +1,7 @@
 ## Part 1 实现一个基本的词汇扫描器（lexical scanner）
 
+Readme in English is **[Here]([acwj/Readme.md at master · DoctorWkt/acwj (github.com)](https://github.com/DoctorWkt/acwj/blob/master/01_Scanner/Readme.md))**.
+
 ### 英汉翻译
 
 | English words    | 汉语含义   |
@@ -57,11 +59,14 @@ enum {
 
 ```
 main.c
-extern_data.h
-token_defines.h
-functiom_defines.h
-function_scan.c
++-extern_data.h
++-token_defines.h
++-functiom_defines.h
+	+-function_scan.c
 
-
+Makefile
+scanner
++-main.o
+	+-function_scan.o
 ```
 
